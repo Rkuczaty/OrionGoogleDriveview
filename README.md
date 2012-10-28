@@ -1,1 +1,1 @@
-mdsfnsdnfmdsn
+Poprawiony sampleFilePlugin
